@@ -1,0 +1,12 @@
+[submodule "yape-auth"]
+	path = yape-auth
+	url = https://github.com/heaveless/yape-auth.git
+[submodule "yape-transaction"]
+	path = yape-transaction
+	url = https://github.com/heaveless/yape-transaction.git
+[submodule "yape-antifraud"]
+	path = yape-antifraud
+	url = https://github.com/heaveless/yape-antifraud.git
+[submodule "yape-orchestrator"]
+	path = yape-orchestrator
+	url = https://github.com/heaveless/yape-orchestrator.git

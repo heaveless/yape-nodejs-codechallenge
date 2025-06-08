@@ -9,6 +9,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Add module [Auth](https://github.com/heaveless/yape-auth.git)
+- Add module [Transaction](https://github.com/heaveless/yape-transaction.git)
+- Add module [Antifraud](https://github.com/heaveless/yape-antifraud.git)
+- Add module [Orchestrator](https://github.com/heaveless/yape-orchestrator.git)
+
 ### Changed
 
 - `docker-compose.yml` remove database config
