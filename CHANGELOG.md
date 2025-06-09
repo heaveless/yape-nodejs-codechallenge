@@ -14,8 +14,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add module [Antifraud](https://github.com/heaveless/yape-antifraud.git)
 - Add module [Orchestrator](https://github.com/heaveless/yape-orchestrator.git)
 
-### Changed
+### Removed
 
 - `docker-compose.yml` remove database config
-
-### Removed
